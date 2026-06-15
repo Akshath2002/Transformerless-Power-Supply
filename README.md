@@ -47,20 +47,6 @@ The PCB was designed from schematic capture through final layout, including comp
 
 * KiCad 10.0
 
-## Project Images
-
-### Schematic
-
-(Add schematic screenshot here)
-
-### PCB Layout
-
-(Add PCB layout screenshot here)
-
-### 3D View
-
-(Add 3D render here)
-
 ## Author
 
 **Akshath Kumar**
